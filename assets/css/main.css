@@ -33,11 +33,16 @@ a {
     letter-spacing: 1em;
     font-size: 20px;
 }
-.socials-button:hover {
+.socials-button:hover, a:hover {
     color: rgba(255, 255, 255, .75);
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
 .dddagsharpgfdfg {
     font-family: 'Comic Sans MS', 'Raleway', sans-serif;
+}
+
+.smaller-container {
+	margin: auto;
+	width: 50%;
 }
