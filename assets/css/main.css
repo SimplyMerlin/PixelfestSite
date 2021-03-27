@@ -41,8 +41,21 @@ a {
 .dddagsharpgfdfg {
     font-family: 'Comic Sans MS', 'Raleway', sans-serif;
 }
-
-.smaller-container {
-	margin: auto;
-	width: 50%;
+@media (max-width: 767px) {
+    .smaller-container {
+        margin: auto;
+        width: 90%;
+    }
+}
+@media (min-width: 768px) {
+    .smaller-container {
+        margin: auto;
+        width: 80%;
+    }
+}
+@media (min-width: 992px) {
+    .smaller-container {
+    	margin: auto;
+    	width: 50%;
+    }
 }
