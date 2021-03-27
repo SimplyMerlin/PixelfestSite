@@ -1,4 +1,4 @@
-#PixelfestSite
+# pixelfest.live
 
 Want to help? Message me on discord `Merlin#2320`. Front end developers would be helpful. Java developers would be pog too.
 
